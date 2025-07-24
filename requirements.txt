@@ -1,0 +1,20 @@
+arviz==0.22.0
+ipywidgets==8.1.7
+keras==3.10.0
+numba==0.61.2
+numpy==1.26.4
+pandas==2.3.1
+pymc==5.24.0
+pytensor==2.31.7
+scikit-base==0.12.3
+scikit-image @ file:///Users/runner/miniforge3/conda-bld/scikit-image_1747532704893/work/dist/scikit_image-0.25.2-cp311-cp311-macosx_11_0_arm64.whl#sha256=5983b73c18eb7cf6a9042db247479c84b74868130fe7e1cb5082e1d7e9d352b1
+scikit-learn==1.7.0
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy-split_1716470269703/work/dist/scipy-1.13.1-cp311-cp311-macosx_11_0_arm64.whl#sha256=0e992411e098e6c56acf32e04ea202871e054f8704758df24c8626bddcd00250
+seaborn==0.13.2
+statsmodels==0.14.4
+tensorflow==2.19.0
+tensorflow-datasets==4.9.9
+tensorflow-probability==0.25.0
+termcolor==3.1.0
+tf_keras==2.19.0
+visualkeras==0.1.4
